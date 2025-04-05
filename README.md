@@ -15,5 +15,7 @@ Through data visualizations, we want to uncover these patterns and present insig
 #### Hypothesis:
 Startups in technology-driven sectors like software, fintech, and healthtech receive higher funding amounts across all stages compared to traditional industries. Additionally, startups that raise larger funding amounts in their initial stages (Seed, Series A) are more likely to secure follow-on funding and eventually reach later stages like Series C, D, or even IPO.
 
+[Group 13 - Presentation.pptx](https://github.com/user-attachments/files/19617774/Group.13.-.Presentation.pptx)
+
 https://github.com/user-attachments/assets/dd4a6ad6-43ce-4b47-a952-38885c856425
 
